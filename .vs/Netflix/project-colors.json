@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e52dae63-b670-4f12-a423-da6c2f35c382": {
+      "ProjectGuid": "e52dae63-b670-4f12-a423-da6c2f35c382",
+      "DisplayName": "Netflix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

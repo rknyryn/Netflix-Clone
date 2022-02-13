@@ -1,0 +1,54 @@
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\bin\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\bin\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.Cache
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.Login.resources
+C:\Users\rknyr\Desktop\Yeni klasör\Netflix\Netflix\obj\Debug\Netflix.NewAccount.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\Netflix\Netflix\bin\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\Netflix\Netflix\bin\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.Login.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.Cache
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.Home.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.NewAccount_Settings.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.Profile.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.Puan.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.ChooseProgramKind.resources
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.ShowKinds.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\1_190201138\Netflix\bin\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\1_190201138\Netflix\bin\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.ChooseProgramKind.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.Home.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.Login.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.NewAccount_Settings.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.Profile.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.Puan.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.ShowKinds.resources
+C:\Users\rknyr\Desktop\1_190201138\Netflix\obj\Debug\Netflix.csproj.GenerateResource.Cache
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\bin\Debug\Netflix.exe
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\bin\Debug\Netflix.pdb
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.ChooseProgramKind.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.Home.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.Login.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.NewAccount_Settings.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.Profile.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.Puan.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.ShowKinds.resources
+C:\Users\rknyr\Desktop\190201138\1_190201138\Netflix\obj\Debug\Netflix.csproj.GenerateResource.Cache
+C:\Users\rknyr\Desktop\Netflix\Netflix\bin\Debug\Netflix.exe.config
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.csproj.AssemblyReference.cache
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.csproj.SuggestedBindingRedirects.cache
+C:\Users\rknyr\Desktop\Netflix\Netflix\obj\Debug\Netflix.csproj.CoreCompileInputs.cache
